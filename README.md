@@ -177,4 +177,4 @@ This repository serves as the official landing page for exacqVision Client. The 
 **Get the most recent version of exacqVision Client today!**
 
 ---
-**Last updated:** 2026-11-13 05:46:38 UTC
+**Last updated:** 2026-11-13 14:14:06 UTC
